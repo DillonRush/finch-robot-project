@@ -8,10 +8,39 @@ public class Test {
 
         // DO STUFF
         birf.playNote(60,1.0);
+        birf.pause(0.2);
+        birf.playNote(70,1.0);
+        birf.pause(0.5);
+        birf.playNote(80,1.0);
+        birf.pause(0.4);
+        birf.playNote(70,1.0);
+        birf.pause(0.2);
+        birf.playNote(60,1.0);
+        birf.pause(0.4);
+        birf.playNote(70,1.0);
+        
+        
+        
+        
+        
+        
+        birf.pause(6);
+        birf.playNote(70,1.0);
         birf.pause(1);
-        birf.playNote(100,1.0);
+        birf.playNote(90,1.0);
         birf.pause(1);
         birf.playNote(70,1.0);
+        birf.pause(1);
+        birf.playNote(50,1.0);
+        birf.pause(2);
+        birf.playNote(50,1.0);
+        birf.pause(1);
+        birf.playNote(70,1.0);
+        birf.pause(1);
+        birf.playNote(60,1.0);
+        birf.pause(1);
+        birf.playNote(80,1.0);
+
 
 
         for (int i = 0; i < 10; i++) {
