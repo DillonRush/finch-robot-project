@@ -7,6 +7,10 @@ public class Test {
         Finch birf = new Finch();
 
         // DO STUFF
+        
+        //move
+        
+        //power down
         birf.playNote(60,1.0);
         birf.pause(0.2);
         birf.playNote(70,1.0);
@@ -19,7 +23,7 @@ public class Test {
         birf.pause(0.4);
         birf.playNote(70,1.0);
         
-        
+        //more song
         
         
         
@@ -41,7 +45,7 @@ public class Test {
         birf.pause(1);
         birf.playNote(80,1.0);
 
-
+        //move
 
         for (int i = 0; i < 10; i++) {
             birf.setBeak(100, 100, 100);
