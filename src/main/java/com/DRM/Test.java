@@ -10,7 +10,19 @@ public class Test {
         
         //move
         
+        
         //power down
+        birf.playNote(60,1.0);
+        birf.pause(0.2);
+        birf.playNote(50,1.0);
+        birf.pause(0.2);
+        birf.playNote(40,1.0);
+        birf.pause(0.2);
+        birf.playNote(32,1.0);
+        birf.pause(2.0);
+
+
+        //song
         birf.playNote(60,1.0);
         birf.pause(0.2);
         birf.playNote(70,1.0);
