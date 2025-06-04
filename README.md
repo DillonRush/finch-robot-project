@@ -2,7 +2,22 @@
 
 ## Essential Question
 How can we apply object-oriented programming principles and Java concepts to create interactive, autonomous robot behaviors that solve real-world challenges?
+_________________________________________________________________________________________________________________________________________________________________________________
 
+## Overview
+Ryan Moll is my partner, He was the Ideas man and helped make the code and repository.
+
+During our time of programming, we had a difficult time with figuring out the notes of the Finch robot, but eventually, we figured out that each note were in increments of 2. Using this information, we were able to make our song that plays when the Finch runs.
+
+## What part are you most proud of?
+We're most proud of actually making some progress in our coding. At some point during this process, we were stuck on some parts, but despite this issue, we completed this project with our expectations being met.
+
+## Describe something you would improve or do differently if you had an opportunity to change something about your project.
+If we had more time to work on this project, we would have prioritized the functionality of our program; making songs easy to add while making them play correctly. Also, we would also create methods that access text files that represent the many possible songs the Finch robot could play.
+
+## Image
+I will submit a seperate schoology asignment with the picture.
+_________________________________________________________________________________________________________________________________________________________________________________
 ## Project Overview
 In this project-based learning experience, you will program a Finch 2.0 robot to perform one of three challenges:
 1. Choreograph a dance routine (with movement, lights, and sound)
@@ -116,3 +131,4 @@ If you complete your chosen challenge early, consider:
 - Creating a user interface to control robot parameters (JFrame, Swing, JavaFX)
 - Implementing multiple modes of operation
 - Adding an obstacle detection and avoidance system
+
