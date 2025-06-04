@@ -111,11 +111,12 @@ public class Test {
 
         birf.playNote(C3, 1.0);
         birf.pause(1.1);
-        birf.playNote(G3, 0.45);
-        birf.pause(0.55);
+        birf.playNote(G3, 1.0);
+        birf.pause(1.1);
         birf.playNote(A3, 1.0);
         birf.pause(1.1);
         birf.playNote(F3, 1.0);
+
 
 
         // for (int i = 0; i < 10; i++) {
